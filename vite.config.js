@@ -8,4 +8,5 @@ export default defineConfig({
             refresh: true,
         }),
     ],
+    base:'/proyecto_laravel_mayra/'
 });
